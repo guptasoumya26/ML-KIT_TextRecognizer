@@ -4,7 +4,7 @@
  ---
  
 #### ML-Kit App
-<img src="https://raw.githubusercontent.com/guptasoumya26/ML-KIT_TextRecognizer/raw/master/images/Demo.gif" alt="norman-1"/>
+<img src="https://github.com/guptasoumya26/ML-KIT_TextRecognizer/blob/master/images/Demo.gif" alt="demo-1"/>
 
 ### See a live demo on - 
 [Video-Link](https://github.com/guptasoumya26/ML-KIT_TextRecognizer/raw/master/Demo.mp4)
