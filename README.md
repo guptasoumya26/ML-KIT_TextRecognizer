@@ -1,13 +1,13 @@
-# Norman Chatbot using ML and Deep Learning 
+# TextRecognition Android app using Firebase ML-Kit
 
-#### Using chatterbot library with text2speech capabilities.
+#### Extending Machine Learning capabilities into Mobile App
  ---
  
-#### User-Interface via Tkinter
-<img src="https://raw.githubusercontent.com/guptasoumya26/NormanChatbot/master/images/Capture.PNG" alt="norman-1"/>
+#### ML-Kit App
+<img src="https://raw.githubusercontent.com/guptasoumya26/ML-KIT_TextRecognizer/raw/master/images/Demo.gif" alt="norman-1"/>
 
 ### See a live demo on - 
-[Video-Link](https://github.com/guptasoumya26/NormanChatbot/raw/master/Demo.mp4)
+[Video-Link](https://github.com/guptasoumya26/ML-KIT_TextRecognizer/raw/master/Demo.mp4)
  ---
  ### Contributors
  Soumya Gupta <gupta.soumya26@gmail.com>
